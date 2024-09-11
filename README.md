@@ -1,6 +1,8 @@
 
-- 👋 Hi, I’m @Alexis-Fouquet (or Alexis Fouquet)
-- 🌱 I’m currently learning C#, Python and OCaml
+- 👋 Hi, I’m @Alexis-Fouquet (or just Alexis Fouquet)
+- I am a student at [EPITA](https://www.epita.fr/en/)
+- 🌱 I’m currently learning C and Python
+- Last year, I learned C# and OCaml
 
 <!---
 - 👀 I’m interested in ...
