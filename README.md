@@ -18,6 +18,56 @@ frameworks and libraries like lombok and the basics of quarkus.
 
 We also used Python, SQL (PostgreSQL), C++ and many others.
 
+```mermaid
+---
+displayMode: compact
+---
+gantt
+    dateFormat YYYY-MM-DD
+    title Timeline
+
+    section School
+        C       :c2, 2025-09-29, 2026-02-01
+        Java    :j1, after c2, 15d
+        C++     :cpp, 2026-02-23, 7d
+        Python  :py, after j1, 2026-05-30
+        SQL     :sql, 2025-12-01, 7d
+        x86 Assembly :asm, 2025-11-18, 2026-01-26
+        Lisp & Haskell basics :f1, 2025-12-17, 2026-01-27
+        Java & C++ basics :o1, 2025-10-14, 2025-12-11
+```
+
+## Before this year
+
+This section is approximated. You may need to scroll down. _Work in progress._
+
+```mermaid
+---
+displayMode: compact
+---
+gantt
+    dateFormat YYYY-MM
+    title Timeline of EPITA years 1 and 2
+
+    section School
+        OCaml   :oc, 2023-09, 2023-10
+        C#      :s1, 2023-09, 2024-06
+        Godot   :s1, 2023-09, 2024-06
+        C       :c1, 2024-09, 100d
+        Java    :j1, 2025-02, 2025-05
+        PHP     :p1, 2025-03, 2025-05
+        HTML    :h1, 2025-03, 2025-05
+        CSS     :h1, 2025-03, 2025-05
+
+    section Other
+        Vim     :v1, 2024-09, 2025-01
+        Neovim  :n1, after v1, 2025-08
+        Nix     :nix, 2025-02, 2025-08
+        Rust    :r1, 2024-09, 2025-05
+        Markdown :m1, 2023-09, 2025-08
+        Obsidian :obs, 2023-09, until n1
+```
+
 # Public projects
 
 ## My NixOS config
