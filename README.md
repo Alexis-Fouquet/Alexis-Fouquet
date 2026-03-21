@@ -8,16 +8,6 @@ a link to the source code.
 
 A small list of what I use the most.
 
-```mermaid
-gantt
-    dateFormat YYYY-MM
-    title Timeline
-
-    section Main technology
-        C       :c1, 2024-09, 90d
-
-```
-
 ## This year at school
 
 This year, I mainly used **C** and **Java**. With more 300 hours on C on my
@@ -27,6 +17,38 @@ Java was my first programming language, and this year I learned how to use some
 frameworks and libraries like lombok and the basics of quarkus.
 
 We also used Python, SQL (PostgreSQL), C++ and many others.
+
+```mermaid
+---
+displayMode: compact
+---
+gantt
+    dateFormat YYYY-MM-DD
+    title Timeline
+
+    section School
+        C       :c2, 2025-09-29, 2026-02-01
+        Java    :j1, after c2, 15d
+        C++     :cpp, 2026-02-23, 7d
+        Python  :py, after j1, 2026-05-30
+        SQL     :sql, 2025-12-01, 7d
+        x86 Assembly :asm, 2025-11-18, 2026-01-26
+        Lisp & Haskell basics :f1, 2025-12-17, 2026-01-27
+        Java & C++ basics :o1, 2025-10-14, 2025-12-11
+```
+
+## Before this year
+
+_Work in progress._
+
+```mermaid
+gantt
+    dateFormat YYYY-MM
+    title Timeline
+
+    section School
+        C       :c1, 2024-09, 100d
+```
 
 # Public projects
 
