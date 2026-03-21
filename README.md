@@ -8,6 +8,16 @@ a link to the source code.
 
 A small list of what I use the most.
 
+```mermaid
+gantt
+    dateFormat YYYY-MM
+    title Timeline
+
+    section Main technology
+        C       :c1, 2024-09, 90d
+
+```
+
 ## This year at school
 
 This year, I mainly used **C** and **Java**. With more 300 hours on C on my
