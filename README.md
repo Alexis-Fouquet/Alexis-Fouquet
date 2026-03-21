@@ -39,15 +39,33 @@ gantt
 
 ## Before this year
 
-_Work in progress._
+This section is approximated. You may need to scroll down. _Work in progress._
 
 ```mermaid
+---
+displayMode: compact
+---
 gantt
     dateFormat YYYY-MM
-    title Timeline
+    title Timeline of EPITA years 1 and 2
 
     section School
+        OCaml   :oc, 2023-09, 2023-10
+        C#      :s1, 2023-09, 2024-06
+        Godot   :s1, 2023-09, 2024-06
         C       :c1, 2024-09, 100d
+        Java    :j1, 2025-02, 2025-05
+        PHP     :p1, 2025-03, 2025-05
+        HTML    :h1, 2025-03, 2025-05
+        CSS     :h1, 2025-03, 2025-05
+
+    section Other
+        Vim     :v1, 2024-09, 2025-01
+        Neovim  :n1, after v1, 2025-08
+        Nix     :nix, 2025-02, 2025-08
+        Rust    :r1, 2024-09, 2025-05
+        Markdown :m1, 2023-09, 2025-08
+        Obsidian :obs, 2023-09, until n1
 ```
 
 # Public projects
