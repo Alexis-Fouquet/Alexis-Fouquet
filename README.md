@@ -8,6 +8,22 @@ a link to the source code.
 
 A small list of what I use the most.
 
+Excluding Markdown, I mostly use these languages:
+
+```mermaid
+pie
+    title What I used the most in the past years
+    "C": 450
+    "C#": 250
+    "Java": 260
+    "Rust": 128
+    "Nix": 70
+    "Python": 110
+    "PHP": 50
+    "Typst": 80
+    "Bash": 40
+```
+
 ## This year at school
 
 This year, I mainly used **C** and **Java**. With more 300 hours on C on my
