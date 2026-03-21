@@ -1,4 +1,10 @@
 
+<style>
+h1 { color: red }
+</style>
+
+<h1>Test</h1>
+
 I'am Alexis Fouquet, a french student at the computer science school
 [EPITA](https://www.epita.fr/en/). I am using this page to showcase some of my
 projects. As I must keep most of them private, not all of my projects will have
