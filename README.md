@@ -104,5 +104,20 @@ code I can showcase it as a project.
 ## My CV
 
 I have a public CV made in Typst, a LaTeX alternative. You can find the code
-on this [repository](https://github.com/Alexis-Fouquet/public-cv).
+on this [repository](https://github.com/Alexis-Fouquet/public-cv). This allows
+me to easily edit the whole style of my resume.
+
+## Testing pytorch
+
+This year, I am also learning Machine Learning for a research program in my
+school, where we help researchers on one of their subjects.
+
+To test pytorch and learn how to train models, I have created a
+[repository](https://github.com/Alexis-Fouquet/testing-pytorch)
+where I put all my experiments. You can use `pytest` and `tensorboard` to see
+the result easily. A `flake.nix` is provided to install everything.
+Each model will have a folder in the `runs` folder.
+
+The purpose of this repository is to evolve to include many models, while
+being as generic as possible.
 
