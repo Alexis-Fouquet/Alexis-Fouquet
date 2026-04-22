@@ -18,7 +18,7 @@ pie
     "Java": 260
     "Rust": 128
     "Nix": 70
-    "Python": 110
+    "Python": 130
     "PHP": 50
     "Typst": 80
     "Bash": 40
